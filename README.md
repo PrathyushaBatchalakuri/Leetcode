@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0414-third-maximum-number) |
 ## Sorting
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
