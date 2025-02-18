@@ -9,12 +9,14 @@
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0414-third-maximum-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +55,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
