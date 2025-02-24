@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0414-third-maximum-number) |
@@ -15,6 +16,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0414-third-maximum-number) |
@@ -24,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +64,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
@@ -70,4 +74,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
