@@ -1,28 +1,27 @@
 class Solution {
     public int majorityElement(int[] nums) {
 
-        Map<Integer,Integer> maps = new HashMap<>();
+        //Voting Algorithm
+        int majority = nums[0];
 
-        int maxCount = nums.length / 2;
+        int vote = 1;
 
-        for( int digit : nums ){
+        for(int i = 1; i < nums.length; i++){
 
-            if(maps.containsKey(digit)){
-                maps.put(digit, maps.get(digit) + 1);
-            }
+            if(vote == 0){
+                majority = nums[i];
+                vote = vote + 1;
+            } 
+            else if(majority == nums[i]){
+                vote = vote + 1;
+            } 
             else{
-                maps.put(digit, 1);
+                vote = vote - 1;
             }
-
-            if(maxCount < maps.get(digit)){
-
-                return digit;
-
-            }
-
+            
         }
 
-        return 0;
+        return majority;
         
     }
 }
