@@ -1,31 +1,28 @@
 class Solution {
     public boolean isPalindrome(String s) {
 
-        s = s.toLowerCase(); // converting all to lower cases
+        int start = 0;
 
-        String newS = "";
+        int end = s.length() - 1;
 
-        for(int i = 0; i <= s.length() - 1; i++) { // adding only alphanumeric to a new string
-
-            char element = s.charAt(i);
-
-            if( Character.isLetterOrDigit(element) ){
-
-                newS = newS + element;
+        while (start < end) { 
+            
+            while (start < end && !Character.isLetterOrDigit(s.charAt(start))) {
+                start++;
             }
+            
+            while (start < end && !Character.isLetterOrDigit(s.charAt(end))) {
+                end--;
+            }
+            if (Character.toLowerCase(s.charAt(start)) != Character.toLowerCase(s.charAt(end))) {
+                return false;
+            }
+
+            start++;
+            end--;
         }
-
-        String reverseS = new StringBuilder(newS).reverse().toString();
-
-        if(reverseS.equals(newS))
-            return true;
+        return true;
         
 
-        System.out.print(newS+" ");
-
-        System.out.print(reverseS);
-
-        return false;
-        
     }
 }
