@@ -38,6 +38,7 @@
 | [0013-roman-to-integer](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0412-fizz-buzz) |
 | [1395-minimum-time-visiting-all-points](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## String
 |  |
@@ -46,6 +47,7 @@
 | [0020-valid-parentheses](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
