@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
@@ -16,6 +17,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
@@ -53,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Stack
