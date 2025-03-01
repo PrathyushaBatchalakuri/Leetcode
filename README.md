@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -48,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
