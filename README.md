@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0412-fizz-buzz) |
@@ -65,6 +66,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
