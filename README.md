@@ -43,6 +43,7 @@
 | [0171-excel-sheet-column-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## String
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,8 +100,13 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0412-fizz-buzz) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
