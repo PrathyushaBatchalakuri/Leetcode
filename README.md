@@ -45,6 +45,7 @@
 | [0412-fizz-buzz](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [2556-convert-the-temperature](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
 | ------- |
