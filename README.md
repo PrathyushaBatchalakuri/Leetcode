@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
