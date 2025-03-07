@@ -51,6 +51,7 @@
 | [1013-fibonacci-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2556-convert-the-temperature](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2556-convert-the-temperature) |
+| [2812-find-the-maximum-achievable-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## String
 |  |
 | ------- |
