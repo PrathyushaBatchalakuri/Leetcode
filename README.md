@@ -16,6 +16,7 @@
 | [0792-binary-search](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0792-binary-search) |
 | [1395-minimum-time-visiting-all-points](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0069-sqrtx](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0792-binary-search) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
