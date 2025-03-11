@@ -82,12 +82,14 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -131,4 +133,12 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2491-smallest-even-multiple) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
