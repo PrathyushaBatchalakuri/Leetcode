@@ -53,6 +53,7 @@
 | [1013-fibonacci-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2383-add-two-integers](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## String
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
