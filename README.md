@@ -137,8 +137,18 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
