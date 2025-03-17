@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0792-binary-search) |
@@ -75,6 +76,7 @@
 | [0075-sort-colors](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
