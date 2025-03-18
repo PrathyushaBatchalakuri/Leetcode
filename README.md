@@ -17,6 +17,7 @@
 | [0792-binary-search](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0792-binary-search) |
 | [1395-minimum-time-visiting-all-points](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2634-minimum-common-value](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2634-minimum-common-value](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2634-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0283-move-zeroes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2634-minimum-common-value](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -94,6 +97,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0792-binary-search) |
+| [2634-minimum-common-value](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
