@@ -1,15 +1,22 @@
 class Solution {
     public int missingNumber(int[] nums) {
         
-        int n = nums.length;
+        HashSet<Integer> set = new HashSet<>();
 
-        int sumIndex = n * (n+1) / 2;
+        int result = 0;
 
-        int sumValue = Arrays.stream(nums).sum();
+        for(int i = 0; i < nums.length; i++){
 
-        int difference = -(sumValue - sumIndex);
+            set.add(nums[i]);
 
-        return (difference);
+        }
 
+        for(int i = 0; i <= nums.length; i++){
+            if(!set.contains(i))
+                return i;
+
+            }
+                
+        return 0;
     }
 }
