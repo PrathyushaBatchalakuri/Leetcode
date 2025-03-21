@@ -182,4 +182,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
