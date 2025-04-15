@@ -163,6 +163,7 @@
 | [0563-binary-tree-tilt](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0563-binary-tree-tilt](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -211,4 +214,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/PrathyushaBatchalakuri/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
